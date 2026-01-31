@@ -4,10 +4,13 @@
 #EXT-X-MEDIA-SEQUENCE:0
 
 #EXTINF:10,
-https://tudominio.com/canal/video1.ts
+https://antenacentro.com/canal3/noticias/index.m3u8
 #EXTINF:10,
-https://tudominio.com/canal/video2.ts
+https://antenacentro.com/canal3/documentales/index.m3u8
 #EXTINF:10,
-https://tudominio.com/canal/video3.ts
+https://antenacentro.com/canal3/anuncios/index.m3u8
+
+#EXTINF:10,
+https://antenacentro.com/canal3/ids/index.m3u8
 
 #EXT-X-ENDLIST
